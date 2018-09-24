@@ -1,2 +1,0 @@
-# Flyers
-Goodies for WordCamp
